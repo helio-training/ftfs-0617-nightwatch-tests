@@ -1,0 +1,13 @@
+{
+  "name": "nightwatch-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test:e2e": "nightwatch e2e"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.0",
+    "nightwatch": "^0.9.16"
+  }
+}
